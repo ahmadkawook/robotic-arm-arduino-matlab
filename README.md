@@ -8,7 +8,7 @@ Real-time joystick control of a 3D-printed, four-servo robotic arm. MATLAB reads
   <img src="media/demo.gif" alt="Robotic arm demo" width="320">
 </p>
 
-▶️ [Full demo video](media/demo.mp4) · 📄 [Project report (PDF)](docs/Mini_Project_2_Report.pdf)
+▶️ [Full demo video](media/demo.mp4) · 📄 [Project report (PDF)](docs/Mini%20Project%202%20Report.pdf)
 
 ---
 
