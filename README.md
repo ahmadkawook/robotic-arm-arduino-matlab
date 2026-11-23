@@ -4,11 +4,7 @@ Real-time joystick control of a 3D-printed, four-servo robotic arm. MATLAB reads
 
 *UNF Modeling & Simulation, Mini Project 2 (April 2026)*
 
-<p align="center">
-  <img src="media/demo.gif" alt="Robotic arm demo" width="320">
-</p>
-
-▶️ [Full demo video](media/demo.mp4) · 📄 [Project report (PDF)](docs/Mini%20Project%202%20Report.pdf)
+📄 **[Full project report (PDF)](docs/Mini%20Project%202%20Report.pdf)**: wiring diagram, code walkthrough, and photos of the hardware
 
 ---
 
@@ -44,10 +40,7 @@ Real-time joystick control of a 3D-printed, four-servo robotic arm. MATLAB reads
 
 Servo wiring: Brown = GND, Red/Orange = 5V, Yellow = Signal.
 
-<p align="center">
-  <img src="media/wiring-diagram.png" alt="Wiring diagram" width="420">
-  <img src="media/hardware-setup.jpg" alt="Hardware setup" width="520">
-</p>
+The full wiring diagram (Figure 1) and a photo of the finished build (Figure 5) are in the [project report](docs/Mini%20Project%202%20Report.pdf).
 
 ## How it works
 
