@@ -6,6 +6,12 @@ Real-time joystick control of a 3D-printed, four-servo robotic arm. MATLAB reads
 
 📄 **[Full project report (PDF)](docs/Mini%20Project%202%20Report%201.pdf)**: wiring diagram, code walkthrough, and photos of the hardware
 
+## Demo
+
+https://github.com/user-attachments/assets/e677b92f-2f25-4575-9a5d-24788b53a099
+
+*The arm being driven with the joystick: base rotation, arm joints, and claw. ([Download video](media/demo.mp4))*
+
 ---
 
 ## Highlights
